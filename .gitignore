@@ -5,3 +5,5 @@ homework/data/test.csv
 homework/data/titanic_test.csv
 homework/data/train.csv
 homework/data/HomeCredit_columns_description.csv
+homework/data/house_train.csv.gz
+homework/data/house_train.csv
